@@ -1,0 +1,22 @@
+Website font notices
+
+The website serves its fonts locally through Astro and Fontsource. This folder
+includes the unmodified SIL Open Font License 1.1 notices for the font families
+configured in astro.config.ts. Inter is retained for the underlying template;
+the mission pages use Berkshire Swash, Lora and DM Sans.
+
+Berkshire Swash: berkshire-swash-OFL.txt (existing notice)
+https://github.com/google/fonts/blob/main/ofl/berkshireswash/OFL.txt
+
+Lora: lora-OFL.txt
+https://github.com/google/fonts/blob/main/ofl/lora/OFL.txt
+
+DM Sans: dmsans-OFL.txt
+https://github.com/google/fonts/blob/main/ofl/dmsans/OFL.txt
+
+Inter: inter-OFL.txt
+https://github.com/google/fonts/blob/main/ofl/inter/OFL.txt
+
+Additional notices retrieved October 8, 2026. These licenses cover the fonts,
+not the mission logo, photographs or decorative illustrations. The source
+repository separately retains the AstroWind MIT license in LICENSE.md.
