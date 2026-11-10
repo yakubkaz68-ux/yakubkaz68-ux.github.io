@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://operationsantassecretmission.com/sitemap-index.xml
+Sitemap: https://operationsantassecretmission.org/sitemap-index.xml
